@@ -1,4 +1,4 @@
-#This code is afrom BanditSystem import *dpoted from https://github.com/WhatIThinkAbout/BabyRobot/tree/master/Multi_Armed_Bandits
+#This code is afrom BanditSystem import *adapted from https://github.com/WhatIThinkAbout/BabyRobot/tree/master/Multi_Armed_Bandits
 import random
 import numpy as np
 import pandas as pd
